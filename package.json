@@ -1,0 +1,16 @@
+{
+  "name": "codexparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "puppeteer": "^10.2.0"
+  }
+}
